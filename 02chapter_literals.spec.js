@@ -1,0 +1,20 @@
+var firstName = "Priyanshu";
+var boolName = true;
+var age = 27;
+var pi = 3.17;
+var first_name;
+var uv = null;
+
+console.log(firstName);
+console.log(boolName);
+console.log(age);
+console.log(pi);
+console.log(first_name);
+console.log(uv);
+console.log("The type of identifiers below");
+console.log(typeof firstName);
+console.log(typeof boolName);
+console.log(typeof age);
+console.log(typeof pi);
+console.log(typeof first_name);
+console.log(typeof uv);
