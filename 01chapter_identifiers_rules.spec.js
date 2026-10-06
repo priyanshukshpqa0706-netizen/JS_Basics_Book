@@ -8,6 +8,7 @@ var _FirstName = true;  //Accepted
 var $pk = true; //Accepted
 var Function = true; //Accepted
 var chineseCharater = true; //Accepted
+var _45 = true;  //accepted
 
 //Not allowed Identifier
 
