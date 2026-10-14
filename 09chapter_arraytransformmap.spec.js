@@ -7,3 +7,14 @@ console.log(grades);
 
 let passingGrade = scores.filter(temp=> temp>60);
 console.log(passingGrade.sort((a,b)=> b-a));   //desc sorting
+
+//Reduce Function
+let sumScore = scores.reduce((sum,num)=>{
+
+    return sum+num;
+},0);
+
+   //[... new Set()] - to remove dupe values from the array
+//[...new Set(first.concat(second))].join(" ");
+
+console.log(sumScore);

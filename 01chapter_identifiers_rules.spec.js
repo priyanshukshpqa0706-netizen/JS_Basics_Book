@@ -9,7 +9,8 @@ var $pk = true; //Accepted
 var Function = true; //Accepted
 var chineseCharater = true; //Accepted
 var _45 = true;  //accepted
-
+var x = infinity;
+console.log(x);
 //Not allowed Identifier
 
 var 123 = "Priyanshu";   //X

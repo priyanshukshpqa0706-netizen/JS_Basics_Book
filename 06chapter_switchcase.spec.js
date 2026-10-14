@@ -27,25 +27,25 @@ console.log("Dumb student call your parents")
 
 }
 
-//Scenario 2
+// //Scenario 2
 
-let statusCode = 200
+// let statusCode = 200
 
-switch(statusCode){
+// switch(statusCode){
 
-case 200:
-    console.log("200-PASS")
-    break;
+// case 200:
+//     console.log("200-PASS")
+//     break;
 
-case 400:
-    console.log("400-NOT FOUND")
-    break;
+// case 400:
+//     console.log("400-NOT FOUND")
+//     break;
 
-case 500:
-    console.log("500-SERVER ERROR")
-    break;
+// case 500:
+//     console.log("500-SERVER ERROR")
+//     break;
     
-}
+// }
 
 //What happens if you miss break; in the switch statement
 //Ans- All the subsequent cases will  be executed until the switch ends
